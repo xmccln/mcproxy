@@ -21,7 +21,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/xmccln/mcproxy.git
 cd mcproxy
 ```
 
@@ -141,7 +141,7 @@ TCP服务器已启动，监听端口: 25570
 
 ## 📄 许可证
 
-[在此添加许可证信息]
+MIT
 
 ## 🐛 问题反馈
 

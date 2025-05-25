@@ -1,0 +1,10 @@
+listen_port: 25570
+default_target: "p2.xmcc.cn.eu.org:25569"
+
+routes:
+  "p3.xmcc.cn.eu.org": "127.0.0.1:25569"
+  "localhost": "127.0.0.1:25565"
+  "test.example.com": "mc.example.com:25565"
+  "survival.myserver.com": "192.168.1.100:25565"
+  "creative.myserver.com": "192.168.1.101:25565"
+  "www.pinterest.com" : "mc.minekuai.com:25565"
